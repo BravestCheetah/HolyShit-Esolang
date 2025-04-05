@@ -1,4 +1,3 @@
-d HolyShit
 # HolyShit | Random EsoLang
 
 *An Esolang inspired by brainfuck*  
