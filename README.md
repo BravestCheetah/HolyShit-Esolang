@@ -7,13 +7,16 @@ d HolyShit
 ## Installation
 
 Install the compiler using pip:
+```bash/terminal
 pip install holyshit-eso
+```
 
 Or clone the Git repository and install it locally:
+```bash/terminal
 git clone https://github.com/bravestcheetah/HolyShit-esolang
 cd HolyShit-esolang
 pip install .
-
+```
 
 ## Executing Code
 **Note, all code files must end in .crap**
