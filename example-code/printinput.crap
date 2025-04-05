@@ -1,0 +1,12 @@
+/ Take in 1 character and print it out
+c# / take input (1 chracters ascii value)
+s% / store input in cell
+@ / print value inside the cell
+cr~10[?s%c]s@
+cr~10[?s%c]s@
+
+/ Take in 3 chracters and print them
+c#s%c>#s%c>#s%c
+<<
+s@c>s@c>s@
+cr~10[?s%c]s@
